@@ -16,7 +16,7 @@ def crossSection(X, Transfo, E_neutron):
     :return: array, list
         values of the cross section in [barn] corresponding to the input parameters
     """
-    z = 0
+    
     # Your work : here
 
     # ==================================  Check arguments  ==================================
